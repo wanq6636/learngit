@@ -10,3 +10,6 @@ cat命令
 新建pre分支，测试将pre修改的内容合并到master
 
 更新本地master并推送到远程master，测试将远程master合并到pre分支
+
+Connection reset by 20.205.243.166 port 22 Could not read from remote repository.  Please make sure you have the correct access rights
+无法从远程存储库读取数据。请确保您有正确的访问权限
