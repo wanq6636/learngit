@@ -8,3 +8,5 @@ cat命令
 又新建一个分支，并add，看是不是在主干也能看到
 
 新建pre分支，测试将pre修改的内容合并到master
+
+更新本地master并推送到远程master，测试将远程master合并到pre分支
